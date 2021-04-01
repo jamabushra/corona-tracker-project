@@ -5,6 +5,8 @@
 ## API used: 
 https://covid19.mathdro.id/api
 
+### Shoutout to JavaScript Mastery Youtube Channel
+
 ### `npm start`
 
 Runs the app in the development mode.\
